@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #e9e9e9;
-    padding : 20px;
+    padding: 20px;
     line-height: 1.6; 
 }
 
@@ -104,13 +104,13 @@ footer {
 }
 
 .skip-link {
-    display: block-inline;
+    display: inline-block;
     padding: 10px 15px;
     background: #333;    
     color: white;    
     text-decoration: none;
     border-radius: 5px;
-    margin: 10px auto;
+    margin: 10px;
 }
 
 .skip-link:hover {
