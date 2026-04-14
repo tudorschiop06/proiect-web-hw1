@@ -12,4 +12,4 @@
 - Formular de contact cu diverse tipuri de input.
 
 ### Limitari cunoscute:
-- Momentan site-ul nu folosește JavaScript pentru ca formularul sa functioneze cum trebuie.
+- Momentan site-ul nu are parte de back end pentru ca formularul sa functioneze cum trebuie.
